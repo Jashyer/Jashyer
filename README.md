@@ -10,6 +10,6 @@ I'm a computer science student specialized in AI&ML.<br>Currently working on Web
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jashyer&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
