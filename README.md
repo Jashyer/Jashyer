@@ -10,7 +10,7 @@ My areas of interest include:
 * 🌐 **Web Development** — building interactive, user-centric dashboards and data-driven applications
 * 🔬 **Research & Innovation** — exploring data to uncover patterns, publish meaningful insights, and contribute to academic growth
 
-I believe in learning by doing, and this project is part of my journey to bridge data science with human impact.
+I believe in learning by doing.
 Feel free to connect or collaborate!
 
 > 📫 Reach me at:ojayashre@gmail.com
