@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I’m **Jaya**, a student in **Computer Science and Engineering (AI & ML)**. I’m passionate about using technology to solve real-world problems—especially at the intersection of **Web Development** ,**Artificial Intelligence**, **Healthcare**, and **Research**.
+Hi! I’m **Jaya**, a student in **Computer Science and Engineering (AI & ML)**. I’m passionate about using technology to solve real-world problems—especially at the intersection of **Web Development**, **Artificial Intelligence**, **Healthcare**, and **Research**.
 
 My areas of interest include:
 
