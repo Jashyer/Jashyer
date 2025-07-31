@@ -1,4 +1,4 @@
-# 💫Hi, I am Jaya :
+# 💫Hi, I am Jaya 
 
 ## 👩‍💻 About Me
 
